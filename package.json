@@ -2,7 +2,7 @@
   "name": "zubi",
   "version": "0.1.0",
   "private": true,
-  "homapage": "https://saumyaaajain.github.io/zubi",
+  "homapage": ".",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
