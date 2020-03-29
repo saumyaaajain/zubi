@@ -1,9 +1,5 @@
 import React from 'react';
-import {
-    BrowserRouter as Router,
-    Switch,
-    Route,
-} from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route} from "react-router-dom";
 
 import './App.css';
 import image from './images/images.png';
@@ -37,12 +33,12 @@ function App() {
               </div>
               <div className='body-text'>
                 <div className='body-text-div'>
-                    <Router>
+                    <Router basename='/zubi'>
                         <Switch>
                             <Route path = '/' exact={true}>
                                 <Text />
                             </Route>
-                            <Route path = '/know_more'>
+                            <Route path = '/know_more' exact={true}>
                                 <KnowMore />
                             </Route>
                         </Switch>
