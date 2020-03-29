@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/zubi/static/css/main.b9b34d58.chunk.css",
+    "main.css": "/zubi/static/css/main.a45d28fc.chunk.css",
     "main.js": "/zubi/static/js/main.69c65c57.chunk.js",
     "main.js.map": "/zubi/static/js/main.69c65c57.chunk.js.map",
     "runtime-main.js": "/zubi/static/js/runtime-main.344662fc.js",
@@ -9,10 +9,10 @@
     "static/js/2.1294ffb5.chunk.js": "/zubi/static/js/2.1294ffb5.chunk.js",
     "static/js/2.1294ffb5.chunk.js.map": "/zubi/static/js/2.1294ffb5.chunk.js.map",
     "index.html": "/zubi/index.html",
-    "precache-manifest.c3254c3afc71e642b4382f3d47060638.js": "/zubi/precache-manifest.c3254c3afc71e642b4382f3d47060638.js",
+    "precache-manifest.e9b4d2464b0b54aac90d7d66ee23005b.js": "/zubi/precache-manifest.e9b4d2464b0b54aac90d7d66ee23005b.js",
     "service-worker.js": "/zubi/service-worker.js",
     "static/css/2.926e15a4.chunk.css.map": "/zubi/static/css/2.926e15a4.chunk.css.map",
-    "static/css/main.b9b34d58.chunk.css.map": "/zubi/static/css/main.b9b34d58.chunk.css.map",
+    "static/css/main.a45d28fc.chunk.css.map": "/zubi/static/css/main.a45d28fc.chunk.css.map",
     "static/js/2.1294ffb5.chunk.js.LICENSE.txt": "/zubi/static/js/2.1294ffb5.chunk.js.LICENSE.txt",
     "static/media/UNKNOWN-2.png": "/zubi/static/media/UNKNOWN-2.c927cdbc.png",
     "static/media/chat-icon.svg": "/zubi/static/media/chat-icon.e0d2b748.svg",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.344662fc.js",
     "static/css/2.926e15a4.chunk.css",
     "static/js/2.1294ffb5.chunk.js",
-    "static/css/main.b9b34d58.chunk.css",
+    "static/css/main.a45d28fc.chunk.css",
     "static/js/main.69c65c57.chunk.js"
   ]
 }
