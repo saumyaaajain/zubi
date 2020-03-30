@@ -6,7 +6,7 @@ export default class KnowMore extends React.Component {
 
     render () {
         return (
-            <div>
+            <div className="body-text-1">
                 <h3 className='h3'>Know More</h3>
                 <h4 className='h4'>Content About Us</h4>
                 <div className='button-div'>

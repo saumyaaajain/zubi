@@ -17,37 +17,39 @@ function App() {
       <div className='centre'>
         <head>
         </head>
-          <body>
-          <header>
-              <h1 className='h1'>Trusted by Industry Leading Organisations</h1>
-              <div className='img'>
-                  <img src={image} className='img-fit' alt = {image}/>
-                  <img src={logo1} className='img-fit' alt = {image}/>
-                  <img src={logo2} className='img-fit' alt = {image}/>
-                  <img src={logo3} className='img-fit' alt = {image}/>
-              </div>
-          </header>
-          <div className='body'>
-              <div className='img-border-div'>
-                  <img src={logo4} className='img-border' alt = {logo4}/>
-              </div>
-              <div className='body-text'>
-                <div className='body-text-div'>
-                    <Router basename='/zubi'>
-                        <Switch>
-                            <Route path = '/' exact={true}>
-                                <Text />
-                            </Route>
-                            <Route path = '/know_more' exact={true}>
-                                <KnowMore />
-                            </Route>
-                        </Switch>
-                    </Router>
-                </div>
-                <Demo />
-              </div>
+          <div className="centre-1">
+              <header>
+                  <h1 className='h1'>Trusted by Industry Leading Organisations</h1>
+                  <div className='img'>
+                      <img src={image} className='img-fit' alt = {image}/>
+                      <img src={logo1} className='img-fit' alt = {image}/>
+                      <img src={logo2} className='img-fit' alt = {image}/>
+                      <img src={logo3} className='img-fit' alt = {image}/>
+                  </div>
+              </header>
+              <body>
+                  <div className='body'>
+                      <div className='img-border-div'>
+                          <img src={logo4} className='img-border' alt = {logo4}/>
+                      </div>
+                      <div className='body-text'>
+                          <div className='body-text-div'>
+                              <Router basename='/zubi'>
+                                  <Switch>
+                                      <Route path = '/' exact={true}>
+                                          <Text />
+                                      </Route>
+                                      <Route path = '/know_more' exact={true}>
+                                          <KnowMore />
+                                      </Route>
+                                  </Switch>
+                              </Router>
+                          </div>
+                          <Demo />
+                      </div>
+                  </div>
+              </body>
           </div>
-          </body>
       </div>
   );
 }

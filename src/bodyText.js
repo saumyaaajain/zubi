@@ -10,7 +10,7 @@ export default class Text extends React.Component {
         let p_title = 'Get Certified Candidates top-notch skill set';
 
         return (
-            <div>
+            <div className="body-text-1">
                 <h3 className='h3'>{p_title}</h3>
                 <h4 className='h4'>{text}</h4>
                 <div className='button-div'>
