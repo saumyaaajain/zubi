@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f33b81c3c6455879259c4abfc1eaf8ea",
+    "revision": "6201c5c597da29652a33c04e79581482",
     "url": "/zubi/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zubi/static/css/2.926e15a4.chunk.css"
   },
   {
-    "revision": "d09efd195bff3642d036",
-    "url": "/zubi/static/css/main.a45d28fc.chunk.css"
+    "revision": "ceb2e31f60f7d875437d",
+    "url": "/zubi/static/css/main.aecc9860.chunk.css"
   },
   {
     "revision": "dfe5ca6112a22e11c76e",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zubi/static/js/2.1294ffb5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d09efd195bff3642d036",
-    "url": "/zubi/static/js/main.69c65c57.chunk.js"
+    "revision": "ceb2e31f60f7d875437d",
+    "url": "/zubi/static/js/main.332e756b.chunk.js"
   },
   {
     "revision": "2ff8647fd391e0b37a26",

@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/zubi/static/css/main.a45d28fc.chunk.css",
-    "main.js": "/zubi/static/js/main.69c65c57.chunk.js",
-    "main.js.map": "/zubi/static/js/main.69c65c57.chunk.js.map",
+    "main.css": "/zubi/static/css/main.aecc9860.chunk.css",
+    "main.js": "/zubi/static/js/main.332e756b.chunk.js",
+    "main.js.map": "/zubi/static/js/main.332e756b.chunk.js.map",
     "runtime-main.js": "/zubi/static/js/runtime-main.344662fc.js",
     "runtime-main.js.map": "/zubi/static/js/runtime-main.344662fc.js.map",
     "static/css/2.926e15a4.chunk.css": "/zubi/static/css/2.926e15a4.chunk.css",
     "static/js/2.1294ffb5.chunk.js": "/zubi/static/js/2.1294ffb5.chunk.js",
     "static/js/2.1294ffb5.chunk.js.map": "/zubi/static/js/2.1294ffb5.chunk.js.map",
     "index.html": "/zubi/index.html",
-    "precache-manifest.e9b4d2464b0b54aac90d7d66ee23005b.js": "/zubi/precache-manifest.e9b4d2464b0b54aac90d7d66ee23005b.js",
+    "precache-manifest.0a3561f8c3a8843574251ec0c26582d2.js": "/zubi/precache-manifest.0a3561f8c3a8843574251ec0c26582d2.js",
     "service-worker.js": "/zubi/service-worker.js",
     "static/css/2.926e15a4.chunk.css.map": "/zubi/static/css/2.926e15a4.chunk.css.map",
-    "static/css/main.a45d28fc.chunk.css.map": "/zubi/static/css/main.a45d28fc.chunk.css.map",
+    "static/css/main.aecc9860.chunk.css.map": "/zubi/static/css/main.aecc9860.chunk.css.map",
     "static/js/2.1294ffb5.chunk.js.LICENSE.txt": "/zubi/static/js/2.1294ffb5.chunk.js.LICENSE.txt",
     "static/media/UNKNOWN-2.png": "/zubi/static/media/UNKNOWN-2.c927cdbc.png",
     "static/media/chat-icon.svg": "/zubi/static/media/chat-icon.e0d2b748.svg",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.344662fc.js",
     "static/css/2.926e15a4.chunk.css",
     "static/js/2.1294ffb5.chunk.js",
-    "static/css/main.a45d28fc.chunk.css",
-    "static/js/main.69c65c57.chunk.js"
+    "static/css/main.aecc9860.chunk.css",
+    "static/js/main.332e756b.chunk.js"
   ]
 }
